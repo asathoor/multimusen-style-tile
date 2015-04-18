@@ -25,6 +25,7 @@ h1 {
 	font-family: 'Sonsie One', cursive;
 	font-size: 1.7em;
 	color: $orange;
+	text-align: center;
 }
 
 h2 {
@@ -100,6 +101,9 @@ header {
 	background-color: #000;
 }
 
+.white {
+	color: #fff;
+}
 
 /* fonts */
 $font-stack:    Helvetica, sans-serif;	
@@ -114,5 +118,6 @@ $font-stack:    Helvetica, sans-serif;
 	h1 {
 		font-size: 1.7em;
 		color: #fff;
+		text-align: left;
 	}
 }

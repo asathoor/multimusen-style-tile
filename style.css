@@ -13,7 +13,8 @@ body {
 h1 {
   font-family: 'Sonsie One', cursive;
   font-size: 1.7em;
-  color: #FF991D; }
+  color: #FF991D;
+  text-align: center; }
 
 h2 {
   border-bottom: 1px solid #FFBA65; }
@@ -71,6 +72,9 @@ header {
 #color6 {
   background-color: #000; }
 
+.white {
+  color: #fff; }
+
 /* fonts */
 .color {
   height: 50px; }
@@ -80,6 +84,7 @@ header {
   color: #000; }
   .jumbotron h1 {
     font-size: 1.7em;
-    color: #fff; }
+    color: #fff;
+    text-align: left; }
 
 /*# sourceMappingURL=style.css.map */
